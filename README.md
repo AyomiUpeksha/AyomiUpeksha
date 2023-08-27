@@ -15,8 +15,9 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tenserflow" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/AyomiUpeksha/Room_Booking_System/blob/main/Icons/r-packages.png" alt="Tenserflow" width="40" height="40"/> </a> 
 
-<img src="logo/seer.png" align="right" height="200"/>
+<img src="https://github.com/AyomiUpeksha/Room_Booking_System/blob/main/Icons/r-packages.png" align="right" height="200"/>
 </p>
 
 
