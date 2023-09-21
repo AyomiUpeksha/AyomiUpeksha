@@ -2,7 +2,7 @@
 
 - 🚀 Data Alchemist with a Passion for Business Intelligence 📊
 - 🔮 Transforming Raw Insights into Actionable Magic ✨
-- 📚 Lifelong Learner, Always Hungry for New Knowledge 🧠
+- 📚 Lifelong Learner, Always Eager for New Knowledge 🧠
 - 💡 Problem Solver Extraordinaire, Embracing Challenges Head-On 🌟
 - 🌌 Innovating at the Nexus of Data and Strategy, Creating Constellations of Success 🌠
 
